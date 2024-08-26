@@ -1,0 +1,28 @@
+{
+  "name": "coinflip-game",
+  "version": "1.0.0",
+  "description": "A coinflip game using blockchain technology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak18-dev/Coinflip-game.git"
+  },
+  "keywords": [
+    "blockchain",
+    "coinflip",
+    "game"
+  ],
+  "author": "AniketKumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak18-dev/Coinflip-game/issues"
+  },
+  "homepage": "https://github.com/ak18-dev/Coinflip-game#readme",
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
+    "ethers": "^6.13.2"
+  }
+}
